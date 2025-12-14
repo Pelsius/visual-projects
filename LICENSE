@@ -1,0 +1,45 @@
+Visual Projects License
+Non-Commercial Use License
+
+Copyright (c) 2025 Pelle Egnerfors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute copies of the Software for 
+NON-COMMERCIAL purposes only, subject to the following conditions:
+
+1. ATTRIBUTION: The above copyright notice and this permission notice shall be 
+   included in all copies or substantial portions of the Software.
+
+2. NON-COMMERCIAL: The Software may not be used for commercial purposes without 
+   prior written permission from the copyright holder. "Commercial purposes" 
+   means any use primarily intended for or directed toward commercial advantage 
+   or monetary compensation.
+
+3. SHARE-ALIKE: Any modifications or derivative works must be distributed under 
+   this same license.
+
+4. ATTRIBUTION IN DERIVATIVES: Modified versions must clearly indicate they are 
+   derived from the original and credit the original author.
+
+COMMERCIAL LICENSING: For commercial use, please contact via:
+https://github.com/Pelsius/visual-projects
+
+THIRD-PARTY LIBRARIES:
+This software includes the following third-party libraries, each with its own license:
+
+1. dagre - Graph layout library
+   License: MIT License
+   Repository: https://github.com/dagrejs/dagre
+   
+2. lodash - JavaScript utility library
+   License: MIT License  
+   Repository: https://github.com/lodash/lodash
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

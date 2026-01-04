@@ -6,20 +6,20 @@ A powerful yet simple web-based tool for project planning with Gantt charts and 
 
 ![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-blue.svg)
 
-## ✨ Features
+## Features
 
-- 📊 **Dual View**: Switch between interactive Graph and Gantt chart views
-- 🔗 **Dependency Management**: Visual task dependencies with automatic scheduling
-- ⚡ **Parallel Tasks**: Support for tasks that can start during dependency execution
-- 📌 **Decision Points & Milestones**: Mark important project events
-- 🎨 **Customizable Colors**: Color-code tasks for better organization
-- 💾 **Auto-save**: Automatic browser-based project saving every 5 minutes
-- 📤 **Export Options**: Export projects as JSON or save charts as PNG images
-- 🌍 **Multi-language**: English and Swedish interface
-- ⌨️ **Keyboard Shortcuts**: Efficient workflow with keyboard controls
-- 📱 **Responsive**: Works on desktop and tablet devices
+- **Dual View**: Switch between interactive Graph and Gantt chart views
+- **Dependency Management**: Visual task dependencies with automatic scheduling
+- **Parallel Tasks**: Support for tasks that can start during dependency execution
+- **Decision Points & Milestones**: Mark important project events
+- **Customizable Colors**: Color-code tasks for better organization
+- **Auto-save**: Automatic browser-based project saving every 5 minutes
+- **Export Options**: Export projects as JSON or save charts as PNG images
+- **Multi-language**: English and Swedish interface
+- **Keyboard Shortcuts**: Efficient workflow with keyboard controls
+- **Responsive**: Works on desktop and tablet devices
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Quick Start
 
@@ -34,7 +34,7 @@ A powerful yet simple web-based tool for project planning with Gantt charts and 
 3. **View Schedule**: Switch between Graph and Gantt views to visualize your timeline
 4. **Export**: Save your project as JSON or export charts as PNG images
 
-## 📖 Key Concepts
+## Key Concepts
 
 ### Dependencies
 - **Normal Dependencies**: Task B starts when Task A finishes
@@ -51,7 +51,7 @@ The tool uses Critical Path Method (CPM) to automatically calculate:
 - Late Start (LS) and Late Finish (LF)
 - Task slack and critical path
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 - `Ctrl+S` - Export project as JSON
 - `+/-` - Zoom in/out
@@ -60,13 +60,13 @@ The tool uses Critical Path Method (CPM) to automatically calculate:
 - `Ctrl+Scroll` - Zoom (when hovering over canvas)
 - `Shift+Drag` - Pan view
 
-## 💾 Data Storage
+## Data Storage
 
 - **Auto-save**: Projects are automatically saved to browser local storage every 5 minutes
 - **Export**: Recommended to export regularly to JSON files as backup
 - **Import**: Load previously exported JSON files
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Pure HTML/CSS/JavaScript** - No dependencies, frameworks, or build tools
 - **Embedded Libraries**:
@@ -75,14 +75,15 @@ The tool uses Critical Path Method (CPM) to automatically calculate:
 - **Browser Storage** - Uses localStorage for auto-save
 - **Canvas API** - For graph and Gantt rendering
 
-## 📋 Browser Compatibility
+## Browser Compatibility
 
-- ✅ Chrome/Edge 90+
-- ✅ Firefox 88+
-- ✅ Safari 14+
-- ✅ Opera 76+
+- Chrome/Edge 90+
+- Firefox 88+
+- Safari 14+
+- Opera 76+
+- Brave 1.8+
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! This project is open for non-commercial use.
 
@@ -103,7 +104,7 @@ The entire application is contained in a single HTML file for maximum portabilit
 3. Test by opening the file in a browser
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under a **Non-Commercial Use License**.
 
@@ -116,18 +117,18 @@ For commercial licensing inquiries, please contact via GitHub Issues.
 
 See [LICENSE](LICENSE) file for full details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **dagre** - Graph layout algorithm
 - **lodash** - JavaScript utilities
 - Inspired by project management tools and the need for a simple, offline-capable planning tool
 
-## 📞 Contact
+## Contact
 
 - GitHub: [@Pelsius](https://github.com/Pelsius)
 - Project Link: [https://github.com/Pelsius/visual-projects](https://github.com/Pelsius/visual-projects)
 
-## 🗺️ Roadmap
+## Roadmap
 
 Potential future features:
 - [ ] Export to PDF
@@ -138,4 +139,4 @@ Potential future features:
 
 ---
 
-**Made with ❤️ for project managers, students, and anyone who needs to visualize task dependencies**
+**Made for project managers, students, and anyone who needs to visualize their project and task dependencies**
